@@ -1,0 +1,30 @@
+language: node_js
+node_js:
+    - "10"
+env:
+    - CXX=g++-4.8
+addons:
+    apt:
+        sources:
+            - ubuntu-toolchain-r-test
+        packages:
+            - g++-4.8
+install:
+    - npm install -g vuepress
+script:
+    - npm run docs:build
+cache:
+    directories:
+        - "node_modules"
+notifications:
+    email: false
+deploy:
+    provider: pages
+    skip-cleanup: true
+    local_dir: docs/.vuepress/dist
+    github-token: 37017f8eb11b853137a666458e95da46af47c814  # Set in the settings page of your repository, as a secure variable
+    repo: sagarmahapatra/visaraato-vaaraso
+    keep-history: true
+    target-branch: master
+    on:
+        branch: master
