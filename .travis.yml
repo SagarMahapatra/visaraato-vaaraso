@@ -21,7 +21,7 @@ notifications:
 deploy:
     provider: pages
     skip-cleanup: true
-    local_dir: docs/.vuepress/dist
+    local_dir: docs/.vuepress/public
     github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
     repo: <username || or org name>/<publication repo name>
     keep-history: true
