@@ -12,7 +12,7 @@ addons:
 install:
     - npm install -g vuepress
 script:
-    - npm run docs:build
+    - vuepress docs:build
 cache:
     directories:
         - "node_modules"
@@ -28,4 +28,3 @@ deploy:
     target-branch: master
     on:
         branch: master
-        
