@@ -22,7 +22,7 @@ deploy:
     provider: pages
     skip-cleanup: true
     local_dir: docs/.vuepress/dist
-    github-token: 37017f8eb11b853137a666458e95da46af47c814  # Set in the settings page of your repository, as a secure variable
+    github-token: 041ed29698974533d2869725c92643a03e981b91  # Set in the settings page of your repository, as a secure variable
     repo: sagarmahapatra/visaraato-vaaraso
     keep-history: true
     target-branch: master
