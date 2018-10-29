@@ -2,7 +2,7 @@ module.exports = {
     title: 'વિસ્તાટો વેર્સો',
   	description: 'વારસો યાદ રાખો',
     base: '/visaraato-vaaraso/',
-    dest: 'public',
+    dest: 'dist',
     themeConfig : {
     logo: '/images/logo/logo.png',
       nav : [

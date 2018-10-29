@@ -1,17 +1,21 @@
 {
-  "name": "vuepress-gl-pages",
+  "name": "visaraato-vaaraso",
   "version": "1.0.0",
   "description": "A starter project for hosting VuePress sites on GitLab pages.",
   "main": "index.js",
   "author": "sagarmahapatra1",
   "license": "MIT",
   "private": false,
+  "homepage": "https://sagarmahapatra.github.com/visaraato-vaaraso",
   "scripts": {
     "start": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "dependencies": {},
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
   "devDependencies": {
-    "vuepress": "^0.10.0"
+    "vuepress": "^0.10.0",
+    "gh-pages": "^2.0.1"
   }
 }
