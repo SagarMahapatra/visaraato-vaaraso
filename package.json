@@ -9,8 +9,7 @@
   "homepage": "https://sagarmahapatra.github.com/visaraato-vaaraso",
   "scripts": {
     "start": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "deploy": "vuepress build docs; gh-pages -d dist"
+    "build": "vuepress build docs"
   },
   "dependencies": {
     "gh-pages": "^2.0.1"
