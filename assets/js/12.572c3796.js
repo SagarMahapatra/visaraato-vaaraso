@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{154:function(t,e,n){"use strict";n.r(e);var s=n(0),r=Object(s.a)({},function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"content"},[e("Index",{attrs:{title:"Curry",path:"/recipes/curry"}})],1)},[],!1,null,null,null);r.options.__file="README.md";e.default=r.exports}}]);
