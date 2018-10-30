@@ -23,8 +23,6 @@ description :
 કાચી કેરી -૫૦૦ ગ્રામ 
 લાલ મરચું -૧૫૦ ગ્રામ
 
- 1. asdasd
- - [ ] List item
 
 # મરચાનુ અથાણું
 
@@ -44,5 +42,5 @@ description :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM3NjExNzhdfQ==
+eyJoaXN0b3J5IjpbNDgwNzIzOTc1XX0=
 -->
