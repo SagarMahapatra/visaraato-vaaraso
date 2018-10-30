@@ -22,4 +22,3 @@ env:
     - USERNAME: "sagarmahapatra"
     - PASSWORD: "W3lc0m3@123"
     - GITHUB_REPO: "sagarmahapatra/visaarato-varaaso"
-    - GITHUB_TOKEN: "b909f60ce95ab8bd04b5d4c37232169f33606ae5"
