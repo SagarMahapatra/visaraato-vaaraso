@@ -1,5 +1,5 @@
 ---
-title: Visaraato Vaaraso
+title: Visararato Vaararso
 home: true
 heroImage: /images/logo/logo_name.png
 footer: Copyright © 2018- Vishal Dave
@@ -20,5 +20,6 @@ footer: Copyright © 2018- Vishal Dave
   </div>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE4MzI1NjNdfQ==
+eyJoaXN0b3J5IjpbLTEzODEzMjI5OTMsLTE0NjE4MzI1NjNdfQ
+==
 -->
