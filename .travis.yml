@@ -21,4 +21,4 @@ env:
   global:
     - USERNAME: "sagarmahapatra"
     - PASSWORD: "W3lc0m3@123"
-    - GITHUB_REPO: "sagarmahapatra/visaarato-varaaso"
+    - GITHUB_REPO: "SagarMahapatra/visaraato-vaaraso"
