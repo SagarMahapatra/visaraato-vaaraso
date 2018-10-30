@@ -1,7 +1,7 @@
 #!/bin/bash
 # See https://medium.com/@nthgergo/publishing-gh-pages-with-travis-ci-53a8270e87db
 set -o errexit
-
+git pull "https://SagarMahapatra:W3lc0m3%40123github.com/${GITHUB_REPO}.git" master:gh-pages
 rm -rf dist
 mkdir dist
 
