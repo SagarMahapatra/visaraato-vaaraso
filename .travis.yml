@@ -13,7 +13,7 @@ branches:
 
 before_script:  
   - npm install
-  - chmod +x ./deploy-to-gh-pages.sh
+  - chmod +x deploy-to-gh-pages.sh
 script:
   - bash ./deploy-to-gh-pages.sh
 
