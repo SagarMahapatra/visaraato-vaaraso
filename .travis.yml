@@ -10,10 +10,10 @@ branches:
   only:
   - master
 
-install:
-  - npm install
-  - npm run build
 
+before_script:  
+  - npm install
+  - chmod +x ./deploy-to-gh-pages.sh
 script:
   - bash ./deploy-to-gh-pages.sh
 
