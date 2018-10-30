@@ -19,4 +19,4 @@ git add .
 git commit -m "Deploy to Github Pages"
 echo "Pushing"
 echo ${GITHUB_REPO}
-git push --username:"${USERNAME}" --password:"${PASSWORD}" "https://github.com/${GITHUB_REPO}.git" master:gh-pages > /dev/null 2>&1
+git push "https://SagarMahapatra:W3lc0m3%40123github.com/${GITHUB_REPO}.git" master:gh-pages > /dev/null 2>&1
