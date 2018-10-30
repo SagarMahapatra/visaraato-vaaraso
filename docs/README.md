@@ -1,5 +1,5 @@
 ---
-title: Visrato Varso
+title: Visaraato Vaaraso
 home: true
 heroImage: /images/logo/logo_name.png
 footer: Copyright © 2018- Vishal Dave
@@ -19,3 +19,6 @@ footer: Copyright © 2018- Vishal Dave
     <Summary path="/poems" title="Poems" icon="poem.png"/>
   </div>
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0NjE4MzI1NjNdfQ==
+-->
