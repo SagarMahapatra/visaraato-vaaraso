@@ -10,7 +10,7 @@ description :
 ---
 
 
-# ગુંદા અથાણું 123
+# ગુંદા અથાણું
  સામગ્રી -                    
 ગુંડા -૧ કિલોગ્રામ 
 હળદર - ૫૦ ગ્રામ 
@@ -41,5 +41,5 @@ description :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI3MjY5MDVdfQ==
+eyJoaXN0b3J5IjpbLTU0Nzk5NDI3OSwtMjAwMjcyNjkwNV19
 -->
