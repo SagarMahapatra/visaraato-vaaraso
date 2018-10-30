@@ -19,7 +19,3 @@ footer: Copyright © 2018- Vishal Dave
     <Summary path="/poems" title="Poems" icon="poem.png"/>
   </div>
 </div>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODEzMjI5OTMsLTE0NjE4MzI1NjNdfQ
-==
--->

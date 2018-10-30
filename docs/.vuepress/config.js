@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'વિસરાતો વારસો',
+    title: 'વિસરાતો વારસો', 
   	description: 'આપણો વારસો યાદ રાખો',
     base: '/visaraato-vaaraso/',
     dest: 'dist',

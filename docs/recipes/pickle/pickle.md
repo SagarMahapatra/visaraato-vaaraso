@@ -40,6 +40,3 @@ description :
 := બીજે દિવસે મરચાં નું અથાણું તૈયાર થઈ જશે
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Nzk5NDI3OSwtMjAwMjcyNjkwNV19
--->
