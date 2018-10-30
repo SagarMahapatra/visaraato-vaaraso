@@ -1,7 +1,7 @@
 #!/bin/bash
 # See https://medium.com/@nthgergo/publishing-gh-pages-with-travis-ci-53a8270e87db
 set -o errexit
-git pull "https://SagarMahapatra:W3lc0m3%40123github.com/${GITHUB_REPO}.git" master:gh-pages
+
 rm -rf dist
 mkdir dist
 
@@ -14,9 +14,10 @@ npm run build
 
 # deploy
 cd dist
+git pull "https://SagarMahapatra:W3lc0m3%40123@github.com/sagarmahapatra/visaarato-varaaso.git" master:gh-pages
 git init
 git add .
 git commit -m "Deploy to Github Pages"
 echo "Pushing"
 echo ${GITHUB_REPO}
-git push "https://SagarMahapatra:W3lc0m3%40123@github.com/${GITHUB_REPO}.git" master:gh-pages > /dev/null 2>&1
+git push "https://SagarMahapatra:W3lc0m3%40123@github.com/sagarmahapatra/visaarato-varaaso.git" master:gh-pages > /dev/null 2>&1
