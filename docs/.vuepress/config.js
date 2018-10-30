@@ -1,6 +1,6 @@
 module.exports = {
     title: 'વિસરાતો વારસો',
-  	description: 'વારસો યાદ રાખો',
+  	description: 'આપણો વારસો યાદ રાખો',
     base: '/visaraato-vaaraso/',
     dest: 'dist',
     themeConfig : {
