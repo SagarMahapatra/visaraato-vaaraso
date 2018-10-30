@@ -23,6 +23,9 @@ description :
 કાચી કેરી -૫૦૦ ગ્રામ 
 લાલ મરચું -૧૫૦ ગ્રામ
 
+ 1. asdasd
+ - [ ] List item
+
 # મરચાનુ અથાણું
 
 
@@ -40,3 +43,6 @@ description :
 := બીજે દિવસે મરચાં નું અથાણું તૈયાર થઈ જશે
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MjM3NjExNzhdfQ==
+-->
